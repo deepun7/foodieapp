@@ -290,7 +290,7 @@ export default function PaymentConstructionPage() {
       `📍 *App:* foodieeee\n\n` +
       `📍 *Please share your live location for smoother delivery.*`;
 
-    return `https://wa.me/918688605760?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/918919829211?text=${encodeURIComponent(message)}`;
   };
 
   const handlePaymentSelect = async (method) => {
